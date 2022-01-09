@@ -5,10 +5,6 @@
     "start": "parcel index.html --open",
     "build": "parcel build index.html --out-dir=build"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://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@github.com/K0tmatr0skin/IPGeolocation.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
