@@ -1,0 +1,20 @@
+{
+  "name": "geolocation",
+  "version": "1.0.0",
+  "description": "![Design preview for the IP address tracker coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/K0tmatr0skin/IPGeolocation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/K0tmatr0skin/IPGeolocation/issues"
+  },
+  "homepage": "https://github.com/K0tmatr0skin/IPGeolocation#readme"
+}
